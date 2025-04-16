@@ -19,13 +19,6 @@ A simple, fun, and responsive **Rock Paper Scissors** game built using **HTML**,
 
 ---
 
-## 🚀 Live Demo
-
-You can [play it here](https://your-github-username.github.io/rock-paper-scissors-jquery/)  
-*(replace with your actual GitHub Pages link)*
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5
