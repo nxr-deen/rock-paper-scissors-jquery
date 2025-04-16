@@ -4,18 +4,18 @@ A simple, fun, and responsive **Rock Paper Scissors** game built using **HTML**,
 
 ---
 
+## 📸 Screenshot
+
+![Game Screenshot](shot.png)
+
+---
+
 ## 🕹️ Features
 
 - 🎮 Interactive gameplay using emojis
 - 🤖 Computer makes random choices
 - 💻 Responsive design (works on desktop & mobile)
 - 🎨 Clean UI with dark mode styling
-
----
-
-## 📸 Screenshot
-
-![Game Screenshot](shot.png)
 
 ---
 
